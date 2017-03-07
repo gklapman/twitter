@@ -66,3 +66,31 @@ code {
 .content .by {
     font-weight: bold;
 }
+
+li {
+    list-style: none;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.tweet-content {
+
+}
+
+.retweet-button {
+    background-color: white;
+    color: blue;
+    border: none;
+}
+
+.twitter-image {
+    height: 50px;
+    width: 40px;
+    float: left;
+}
+
+.tweet {
+    padding-bottom: 15px;
+}
